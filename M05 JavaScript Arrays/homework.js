@@ -104,7 +104,7 @@ function multiplicarArgumentos() {
    // Tu código:
    if (arguments.length === 0) {
       return 0;
-   } else if (arguments.length === 1) {
+   } else if (arguments.length === 1) {   
       return arguments[0];
    } else {
       var producto = 1;
